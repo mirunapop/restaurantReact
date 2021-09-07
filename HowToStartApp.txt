@@ -1,0 +1,9 @@
+1. se deschide un terminal (command prompt), se navigheaza la path: \atestat1\json-server si se introduce comanda:
+	 $ json-server --watch db.json -d 2000 -p 3001, se lasa sa ruleze (acesta este serverul)
+2. se deschide alt terminal, se navigheaza la path: \atestat 1 si se introduce comanda $ npm start sau $ yarn start in functie de ce program dispuneti
+In cazul in care aplicatia din browser nu ruleaza, e fiindca nu aveti toate dependentele React.
+Se va deschide in browserul default aplicatia web,
+ in cazul erorii "Failed to Fetch" inseamna ca a fost o problema la deschiderea serverului, incercati sa repetati procesul
+La sectiunea Menu, in functie de browser, se poate intampla sa nu se faca render corect la elemente (pentru asta voi incerca sa mai postez o versiune), dar va rog sa intrati, totusi, 
+pe linkurile cu numele produselor (Pizza, Pasta etc) pentru a vedea sectiunea de comentarii si descriere.
+Este esential sa aveti ambele terminale deschise in timpul navigarii in aplicatie.
